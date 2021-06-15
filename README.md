@@ -14,4 +14,4 @@ When the password is generated it is written to the page.
 The completed application can be viewed here: https://lallender.github.io/passwordGenerator/
 
 The application appear like this:
-![ScreenShot](https://raw.github.com/{LAllender}/{passwordGenerator}/{main}/{/Assets/images/passwordGeneratorScreenshot.png}
+![passwordGeneratorScreenshot](https://user-images.githubusercontent.com/83952257/122058464-fb029500-ce2e-11eb-9d68-aa3d754baabb.png)
